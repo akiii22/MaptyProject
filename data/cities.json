@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "fd66",
+      "cityName": "Lipa City",
+      "countryName": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-09-07T08:08:15.652Z",
+      "notes": "Get grades",
+      "position": {
+        "lat": "13.938750581428465",
+        "lng": "121.16477966308595"
+      }
+    },
+    {
+      "id": "d24e",
+      "cityName": "Padre Garcia",
+      "countryName": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2024-09-13T08:33:32.064Z",
+      "notes": "",
+      "position": {
+        "lat": "13.87341319753682",
+        "lng": "121.21070114030094"
+      }
+    }
+  ]
+}
